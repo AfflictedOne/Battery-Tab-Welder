@@ -60,7 +60,7 @@ void loop() {
         uView.display();
         delay(500);
 
-        uView.print("        FIRE!"); // SPARKS, YIKES!
+        uView.print("        CHOOCH!"); // SPARKS, YIKES!
         uView.display();
 
         delay(5);
